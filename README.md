@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/64678136?s…00&u=5f4608205b1b720e46249663dbb00d281d79700e&v=4"align="center"/>
+<img align="center" src="https://avatars.githubusercontent.com/u/64678136?s…00&u=5f4608205b1b720e46249663dbb00d281d79700e&v=4"/>
 <h1 align="center">Hi 👋, I'm Faiz Misuari</h1>
 <h3 align="center">A passionate tester from Malaysia</h3>
 
