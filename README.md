@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Misuari</h1>
 <h3 align="center">A passionate tester from Malaysia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/faizmisuari/ </h3>
 <p align="left">
 </p>
 
