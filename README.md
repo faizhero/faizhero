@@ -14,7 +14,7 @@
 <h2>Certifications</h2>
 <p>
     Check out my LinkedIn profile for a full list of my certifications and achievements:
-    <a href="https://www.linkedin.com/in/faizmisuari/#certifications">View Certifications on LinkedIn</a>
+    <a href="https://www.linkedin.com/in/faizmisuari/#licenses_and_certifications">View Certifications on LinkedIn</a>
 </p>
 
 <h3>Languages and Tools:</h3>
@@ -33,7 +33,8 @@
 <h2>LinkedIn Public Profile Badge</h2>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="faizmisuari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/faizmisuari?trk=profile-badge">Faiz Misuari bin Mohamad Ali</a></div>
 
-<h2>LinkedIn Learning Badge</h2>
-<!-- Add your LinkedIn Learning Badge code here -->
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<h2>Experience</h2>
+<p>
+    Explore my professional experience on LinkedIn:
+    <a href="https://www.linkedin.com/in/faizmisuari/#experience">View Experience on LinkedIn</a>
+</p>
