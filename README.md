@@ -1,14 +1,14 @@
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/64678136?s=400&u=5f4608205b1b720e46249663dbb00d281d79700e&v=4" alt="Profile Image" width="200" height="200">
     <h1>Hi 👋, I'm Faiz Misuari</h1>
-    <h3>A passionate tester from Malaysia</h3>
+    <h3>A versatile software tester.</h3>
     <a href="https://www.linkedin.com/in/faizmisuari/">Connect with me on LinkedIn</a>
 </div>
 
 <h2>About Me</h2>
 <p>
     I am a dedicated tester with a background in Software Engineering. My focus lies in ensuring the quality and reliability of software applications in the Banking, Financial Services, and Insurance (BFSI) domain.
-    With hands-on experience in Software Testing, I excel in test automation using tools like Tricentis Tosca and Micro Focus UFT (Unified Functional Testing). I am committed to delivering robust and high-performance solutions through rigorous testing practices.
+    With hands-on experience in Software Testing, I excel in test automation using tools like Tricentis Tosca and Micro Focus UFT (Unified Functional Testing). I am committed to delivering robust and high-performance solutions through rigorous testing practices. Welcome to my github repositories where I store my Test Automation Portfolio!
 </p>
 
 <h2>Skills</h2>
