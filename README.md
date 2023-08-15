@@ -8,13 +8,13 @@
 <h2>Test Automation Portfolio</h2>
 <p>
     Here you can find some of the projects I've worked on in the field of test automation.
-    <!-- WIP to add project descriptions and links here -->
+    <!-- Add project descriptions and links here -->
 </p>
 
 <h2>Certifications</h2>
 <p>
     Check out my LinkedIn profile for a full list of my certifications and achievements:
-    <a href="https://www.linkedin.com/in/faizmisuari/">View Certifications on LinkedIn</a>
+    <a href="https://www.linkedin.com/in/faizmisuari/#certifications">View Certifications on LinkedIn</a>
 </p>
 
 <h3>Languages and Tools:</h3>
@@ -29,3 +29,11 @@
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40">
     </a>
 </p>
+
+<h2>LinkedIn Public Profile Badge</h2>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="faizmisuari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/faizmisuari?trk=profile-badge">Faiz Misuari bin Mohamad Ali</a></div>
+
+<h2>LinkedIn Learning Badge</h2>
+<!-- Add your LinkedIn Learning Badge code here -->
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
