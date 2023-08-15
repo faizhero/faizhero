@@ -5,6 +5,18 @@
     <a href="https://www.linkedin.com/in/faizmisuari/">Connect with me on LinkedIn</a>
 </div>
 
+<h2>Test Automation Portfolio</h2>
+<p>
+    Here you can find some of the projects I've worked on in the field of test automation.
+    <!-- WIP to add project descriptions and links here -->
+</p>
+
+<h2>Certifications</h2>
+<p>
+    Check out my LinkedIn profile for a full list of my certifications and achievements:
+    <a href="https://www.linkedin.com/in/faizmisuari/">View Certifications on LinkedIn</a>
+</p>
+
 <h3>Languages and Tools:</h3>
 <p>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
