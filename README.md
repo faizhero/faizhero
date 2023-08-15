@@ -5,16 +5,26 @@
     <a href="https://www.linkedin.com/in/faizmisuari/">Connect with me on LinkedIn</a>
 </div>
 
-<h2>Test Automation Portfolio</h2>
+<h2>About Me</h2>
 <p>
-    Here you can find some of the projects I've worked on in the field of test automation.
-    <!-- Add project descriptions and links here -->
+    I am a dedicated tester with a background in Software Engineering. My focus lies in ensuring the quality and reliability of software applications in the Banking, Financial Services, and Insurance (BFSI) domain.
+    With hands-on experience in Software Testing, I excel in test automation using tools like Tricentis Tosca and Micro Focus UFT (Unified Functional Testing). I am committed to delivering robust and high-performance solutions through rigorous testing practices.
 </p>
 
-<h2>Certifications</h2>
+<h2>Skills</h2>
+<ul>
+    <li>Software Testing</li>
+    <li>Test Automation (Tricentis Tosca, Micro Focus UFT)</li>
+    <li>Agile Development</li>
+    <li>Version Control (Git)</li>
+    <li>Quality Assurance</li>
+    <!-- Add more skills -->
+</ul>
+
+<h2>Test Automation Portfolio</h2>
 <p>
-    Check out my LinkedIn profile for a full list of my certifications and achievements:
-    <a href="https://www.linkedin.com/in/faizmisuari/#licenses_and_certifications">View Certifications on LinkedIn</a>
+    Explore some of my recent test automation projects:
+    <!-- Add project descriptions and links here -->
 </p>
 
 <h3>Languages and Tools:</h3>
@@ -30,11 +40,23 @@
     </a>
 </p>
 
-<h2>LinkedIn Public Profile Badge</h2>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="faizmisuari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/faizmisuari?trk=profile-badge">Faiz Misuari bin Mohamad Ali</a></div>
+<h2>Certifications</h2>
+<p>
+    Check out my certifications and achievements on LinkedIn:
+    <a href="https://www.linkedin.com/in/faizmisuari/#licenses_and_certifications">View Certifications on LinkedIn</a>
+</p>
 
 <h2>Experience</h2>
 <p>
-    Explore my professional experience on LinkedIn:
+    Discover my professional experience in Software Testing on LinkedIn:
     <a href="https://www.linkedin.com/in/faizmisuari/#experience">View Experience on LinkedIn</a>
 </p>
+
+<h2>Education</h2>
+<p>
+    Learn about my educational background in Software Engineering on LinkedIn:
+    <a href="https://www.linkedin.com/in/faizmisuari/#education">View Education on LinkedIn</a>
+</p>
+
+<h2>LinkedIn Public Profile Badge</h2>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="faizmisuari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/faizmisuari?trk=profile-badge">Faiz Misuari bin Mohamad Ali</a></div>
