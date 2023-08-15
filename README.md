@@ -25,10 +25,8 @@
 <p>
     Explore some of my recent test automation projects:
     <!-- Add project descriptions and links here -->
-    - [Selenium IDE Automation Project](https://faizmisuari.github.io/TAP-SeleniumIDE/)
+    
 </p>
-
-<h3>Languages and Tools:</h3>
 <p>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40">
@@ -36,9 +34,15 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
     </a>
+</p>
+<p>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://www.selenium.dev/selenium-ide/img/selenium-ide128.png" alt="selenium-ide" width="40" height="40">
     </a>
+<ul>
+    <li><a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">[Selenium IDE Automation Project 1]</a></li>
+    <!-- Add more skills -->
+</ul>
 </p>
 
 <h2>Certifications</h2>
