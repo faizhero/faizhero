@@ -23,27 +23,60 @@
 
 <h2>Test Automation Portfolio</h2>
 <p>
-    Explore some of my recent test automation projects:
+    Explore some of my test automation projects:
     <!-- Add project descriptions and links here -->
-    
-</p>
-<p>
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40">
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
-    </a>
-</p>
-<p>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.selenium.dev/selenium-ide/img/selenium-ide128.png" alt="selenium-ide" width="40" height="40">
-    </a>
-<ul>
-    <li><a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">[Selenium IDE Automation Project 1]</a></li>
-    <!-- Add more skills -->
-</ul>
-</p>
+<table>
+    <thead>
+        <tr>
+            <th>Tool</th>
+            <th>Project</th>
+            <th>Test Object Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/yourusername/cypress-project">Cypress Automation Project</a>
+            </td>
+            <td>
+                <a href="https://example.com/test-object-1">Test Object 1</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/yourusername/git-project">Git Automation Project</a>
+            </td>
+            <td>
+                <a href="https://example.com/test-object-2">Test Object 2</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+                    <img src="https://www.selenium.dev/selenium-ide/img/selenium-ide128.png" alt="selenium-ide" width="40" height="40">
+                </a>
+            </td>
+            <td>
+                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">Selenium IDE Automation Project 1</a>
+            </td>
+            <td>
+                <a href="https://example.com/test-object-3">Test Object 3</a>
+            </td>
+        </tr>
+        <!-- Add more rows for additional projects -->
+    </tbody>
+</table>
+
 
 <h2>Certifications</h2>
 <p>
