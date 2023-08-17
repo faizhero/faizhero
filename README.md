@@ -37,7 +37,7 @@
         <tr>
             <td>
                 <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40">
+                    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50">
                 </a>
             </td>
             <td>
@@ -50,7 +50,7 @@
         <tr>
             <td>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50">
                 </a>
             </td>
             <td>
@@ -63,7 +63,7 @@
         <tr>
             <td>
                 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-                    <img src="https://www.selenium.dev/selenium-ide/img/selenium-ide128.png" alt="selenium-ide" width="40" height="40">
+                    <img src="https://www.selenium.dev/selenium-ide/img/selenium-ide128.png" alt="selenium-ide" width="50" height="50">
                 </a>
             </td>
             <td>
@@ -71,6 +71,32 @@
             </td>
             <td>
                 <a href="https://example.com/test-object-3">Test Object 3</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+                    <img src="https://pnx-assets-prod.s3.amazonaws.com/2023-05/image-1200.png" alt="selenium-ide" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">UFT Automation Project 1</a>
+            </td>
+            <td>
+                <a href="https://the-internet.herokuapp.com/">https://the-internet.herokuapp.com/</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" alt="selenium-ide" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">Postman Automation Project 1</a>
+            </td>
+            <td>
+                <a href="https://reqres.in/">https://reqres.in/</a>
             </td>
         </tr>
         <!-- Add more rows for additional projects -->
