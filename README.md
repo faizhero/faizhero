@@ -41,10 +41,10 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/cypress-project">Cypress Automation Project</a>
+                <a href="https://github.com/yourusername/cypress-project">Cypress Automation Project[WIP]</a>
             </td>
             <td>
-                <a href="https://example.com/test-object-1">Test Object 1</a>
+                <a href="https://example.com/test-object-1">Test Object 1[WIP]</a>
             </td>
         </tr>
         <tr>
@@ -54,10 +54,23 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/git-project">Git Automation Project</a>
+                <a href="https://github.com/yourusername/git-project">Git Automation Project[WIP]</a>
             </td>
             <td>
-                <a href="https://example.com/test-object-2">Test Object 2</a>
+                <a href="https://example.com/test-object-2">Test Object 2[WIP]</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">Selenium Automation Project 1[WIP]</a>
+            </td>
+            <td>
+                <a href="https://example.com/test-object-3">Test Object 3[WIP]</a>
             </td>
         </tr>
         <tr>
@@ -67,10 +80,10 @@
                 </a>
             </td>
             <td>
-                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">Selenium IDE Automation Project 1</a>
+                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">Selenium IDE Automation Project 1[WIP]</a>
             </td>
             <td>
-                <a href="https://example.com/test-object-3">Test Object 3</a>
+                <a href="https://example.com/test-object-3">Test Object 3[WIP]</a>
             </td>
         </tr>
         <tr>
@@ -97,6 +110,19 @@
             </td>
             <td>
                 <a href="https://reqres.in/">https://reqres.in/</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
+                    <img src="https://robotframework.org/img/RF.svg" alt="robotframework" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/yourusername/cypress-project">Robot Framework Automation Project[WIP]</a>
+            </td>
+            <td>
+                <a href="https://example.com/test-object-1">Test Object 1[WIP]</a>
             </td>
         </tr>
         <!-- Add more rows for additional projects -->
