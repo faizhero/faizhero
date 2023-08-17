@@ -44,7 +44,7 @@
                 <a href="https://github.com/yourusername/cypress-project">Cypress Automation Project[WIP]</a>
             </td>
             <td>
-                <a href="https://example.com/test-object-1">Test Object 1[WIP]</a>
+                <a href="https://todomvc-app-for-testing.surge.sh/">https://todomvc-app-for-testing.surge.sh/</a>
             </td>
         </tr>
         <tr>
@@ -83,7 +83,7 @@
                 <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">Selenium IDE Automation Project 1[WIP]</a>
             </td>
             <td>
-                <a href="https://example.com/test-object-3">Test Object 3[WIP]</a>
+                <a href="https://the-internet.herokuapp.com/">https://the-internet.herokuapp.com/</a>
             </td>
         </tr>
         <tr>
@@ -122,7 +122,60 @@
                 <a href="https://github.com/yourusername/cypress-project">Robot Framework Automation Project[WIP]</a>
             </td>
             <td>
-                <a href="https://example.com/test-object-1">Test Object 1[WIP]</a>
+                <a href="https://demo.applitools.com/">https://demo.applitools.com/</a>
+                <a href="http://inv.beaufortfairmont.com/#/">http://inv.beaufortfairmont.com/#/</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+                    <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/yourusername/cypress-project">Jmeter Automation Project[WIP]</a>
+            </td>
+            <td>
+                <a href="https://demoblaze.com/">https://demoblaze.com/</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://katalon.com/" target="_blank" rel="noreferrer">
+                    <img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" alt="katalon" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/yourusername/cypress-project">Katalon Automation Project[WIP]</a>
+            </td>
+            <td>
+                <a href="https://katalon-demo-cura.herokuapp.com/">https://katalon-demo-cura.herokuapp.com/</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+                    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/yourusername/cypress-project">Playwright Automation Project[WIP]</a>
+            </td>
+            <td>
+                <a href="https://www.saucedemo.com/">https://www.saucedemo.com/</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer">
+                    <img src="https://appium.io/docs/en/2.0/assets/images/appium-logo-horiz.png" alt="appium" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/yourusername/cypress-project">Appium Automation Project[WIP]</a>
+            </td>
+            <td>
+                <a href="https://github.com/browserstack/browserstack-examples-appium-junit5">https://github.com/browserstack/browserstack-examples-appium-junit5</a>
             </td>
         </tr>
         <!-- Add more rows for additional projects -->
