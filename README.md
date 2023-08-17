@@ -93,7 +93,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">Postman Automation Project 1</a>
+                <a href="https://faizmisuari.github.io/TAP-Postman1/">Postman Automation Project 1</a>
             </td>
             <td>
                 <a href="https://reqres.in/">https://reqres.in/</a>
