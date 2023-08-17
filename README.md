@@ -75,12 +75,12 @@
         </tr>
         <tr>
             <td>
-                <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-                    <img src="https://pnx-assets-prod.s3.amazonaws.com/2023-05/image-1200.png" alt="selenium-ide" width="50" height="50">
+                <a href="https://www.microfocus.com/en-us/products/uft-one/overview" target="_blank" rel="noreferrer">
+                    <img src="https://pnx-assets-prod.s3.amazonaws.com/2023-05/image-1200.png" alt="microfocus-uft" width="50" height="50">
                 </a>
             </td>
             <td>
-                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">UFT Automation Project 1</a>
+                <a href="https://faizmisuari.github.io/TAP-UFT1/">UFT Automation Project 1</a>
             </td>
             <td>
                 <a href="https://the-internet.herokuapp.com/">https://the-internet.herokuapp.com/</a>
