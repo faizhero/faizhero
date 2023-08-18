@@ -41,7 +41,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/cypress-project">Cypress Automation Project[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-Cypress1/">Cypress Automation Project[WIP]</a>
             </td>
             <td>
                 <a href="https://todomvc-app-for-testing.surge.sh/">https://todomvc-app-for-testing.surge.sh/</a>
@@ -67,7 +67,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://faizmisuari.github.io/TAP-SeleniumIDE/">Selenium Automation Project 1[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-Selenium1/">Selenium Automation Project 1[WIP]</a>
             </td>
             <td>
                 <a href="https://example.com/test-object-3">Test Object 3[WIP]</a>
@@ -119,7 +119,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/cypress-project">Robot Framework Automation Project[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-RobotFramework1/">RobotFramework Automation Project[WIP]</a>
             </td>
             <td>
                 <a href="https://demo.applitools.com/">https://demo.applitools.com/</a>
@@ -133,7 +133,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/cypress-project">Jmeter Automation Project[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-JMeter1/">JMeter Automation Project[WIP]</a>
             </td>
             <td>
                 <a href="https://demoblaze.com/">https://demoblaze.com/</a>
@@ -146,7 +146,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/cypress-project">Katalon Automation Project[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-Katalon1/">Katalon Automation Project[WIP]</a>
             </td>
             <td>
                 <a href="https://katalon-demo-cura.herokuapp.com/">https://katalon-demo-cura.herokuapp.com/</a>
@@ -159,7 +159,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/cypress-project">Playwright Automation Project[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-Playwright1/">Playwright Automation Project[WIP]</a>
             </td>
             <td>
                 <a href="https://www.saucedemo.com/">https://www.saucedemo.com/</a>
@@ -172,7 +172,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/cypress-project">Appium Automation Project[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-Appium1/">Appium Automation Project[WIP]</a>
             </td>
             <td>
                 <a href="https://github.com/browserstack/browserstack-examples-appium-junit5">https://github.com/browserstack/browserstack-examples-appium-junit5</a>
