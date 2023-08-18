@@ -49,15 +49,15 @@
         </tr>
         <tr>
             <td>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50">
+                <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+                    <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="insomnia" width="50" height="50">
                 </a>
             </td>
             <td>
-                <a href="https://github.com/yourusername/git-project">Git Automation Project[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-Insomnia1/">Insomnia Automation Project[WIP]</a>
             </td>
             <td>
-                <a href="https://example.com/test-object-2">Test Object 2[WIP]</a>
+                <a href="https://pokeapi.co/">https://pokeapi.co/</a>
             </td>
         </tr>
         <tr>
