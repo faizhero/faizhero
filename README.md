@@ -113,17 +113,24 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td rowspan="2">
                 <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
                     <img src="https://robotframework.org/img/RF.svg" alt="robotframework" width="50" height="50">
                 </a>
             </td>
             <td>
-                <a href="https://faizmisuari.github.io/TAP-RobotFramework1/">RobotFramework Automation Project[WIP]</a>
+                <a href="https://faizmisuari.github.io/TAP-RobotFramework1/">RobotFramework Automation Project 1[WIP]</a>
             </td>
             <td>
                 <a href="https://demo.applitools.com/">https://demo.applitools.com/</a>
+        <tr>
+            <td>
+                <a href="https://faizmisuari.github.io/TAP-RobotFramework1/">RobotFramework Automation Project 2[WIP]</a>
+            </td>
+            <td>
                 <a href="http://inv.beaufortfairmont.com/#/">http://inv.beaufortfairmont.com/#/</a>
+            </td>
+        </tr>
             </td>
         </tr>
         <tr>
@@ -176,6 +183,32 @@
             </td>
             <td>
                 <a href="https://github.com/browserstack/browserstack-examples-appium-junit5">https://github.com/browserstack/browserstack-examples-appium-junit5</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.tricentis.com/products/automate-continuous-testing-tosca" target="_blank" rel="noreferrer">
+                    <img src="https://www.tricentis.com/_ipx/w_256,q_75/https%3A%2F%2Fbe.tricentis.com%2Fmedia-assets%2F2022%2F08%2Ftricentis-Logo.png" alt="tosca" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://faizmisuari.github.io/TAP-Tosca1/">TOSCA Automation Project[WIP]</a>
+            </td>
+            <td>
+                <a href="http://sampleapp.tricentis.com/101/app.php">http://sampleapp.tricentis.com/101/app.php</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://specflow.org/" target="_blank" rel="noreferrer">
+                    <img src="https://docs.specflow.org/projects/specflow/en/latest/_static/logo.png" alt="specflow" width="50" height="50">
+                </a>
+            </td>
+            <td>
+                <a href="https://faizmisuari.github.io/TAP-Specflow1/">Specflow Automation Project[WIP]</a>
+            </td>
+            <td>
+                <a href="http://sampleapp.tricentis.com/101/app.php">http://sampleapp.tricentis.com/101/app.php</a>
             </td>
         </tr>
         <!-- Add more rows for additional projects -->
